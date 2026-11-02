@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Python
+__pycache__/
+*.pyc
+
+# Local vector database (created when you process documents)
+chroma_db/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
